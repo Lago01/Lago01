@@ -1,3 +1,3 @@
-- 👋 Hi, I'm @Lago01.
+- 👋 Hi, I'm rllago.
 - 👀 I'm interested in learning more types of programming.
 - 🌱 I'm currently learning html and css.
